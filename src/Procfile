@@ -1,0 +1,1 @@
+web: gunicorn algo_connect:app --log-file -
